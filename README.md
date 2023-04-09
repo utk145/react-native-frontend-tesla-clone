@@ -12,11 +12,11 @@ This is a basic, simple Tesla clone app made for practice only, with no intentio
     - `npm install`
 
 ## Screenshots
-    
-<img src="/screenshots/Screenshot_2023-04-09-14-24-30-578_host.exp.exponent.png">
-<img src="/screenshots/Screenshot_2023-04-09-14-24-36-649_host.exp.exponent.png">
-<img src="/screenshots/Screenshot_2023-04-09-14-24-52-140_host.exp.exponent.png">
-<img src="/screenshots/Screenshot_2023-04-09-14-24-59-782_host.exp.exponent.png">
-<img src="/screenshots/Screenshot_2023-04-09-14-25-04-281_host.exp.exponent.png">
-<img src="/screenshots/Screenshot_2023-04-09-14-25-29-095_host.exp.exponent.png">
-    
+<p align-items="center">    
+<img src="/screenshots/Screenshot_2023-04-09-14-24-30-578_host.exp.exponent.png" height="700">
+<img src="/screenshots/Screenshot_2023-04-09-14-24-36-649_host.exp.exponent.png" height="700">
+<img src="/screenshots/Screenshot_2023-04-09-14-24-52-140_host.exp.exponent.png" height="700">
+<img src="/screenshots/Screenshot_2023-04-09-14-24-59-782_host.exp.exponent.png" height="700">
+<img src="/screenshots/Screenshot_2023-04-09-14-25-04-281_host.exp.exponent.png" height="700">
+<img src="/screenshots/Screenshot_2023-04-09-14-25-29-095_host.exp.exponent.png" height="700">
+</p>    
